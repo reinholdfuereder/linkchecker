@@ -1,6 +1,6 @@
 # required:
 requests >= 2.4
 pyxdg
-dnspython
+dnspython == 1.16.0
 # optional:
 argcomplete
